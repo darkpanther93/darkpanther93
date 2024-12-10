@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @darkpanther93
-- 👀 I’m interested in envolve in may professional career
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on works, projects
-- 📫 How to reach me via email
-- 😄 Pronouns: he/his
+- 👀 I’m interested in: Envolve in may professional career
+- 🌱 I’m currently learning: Python
+- 💞️ I’m looking to collaborate on: Works, projects
+- 📫 How to reach me: Via email
+- 😄 Pronouns: He/his
 - ⚡ Fun fact: Red is my favorite color
 
 <!---
